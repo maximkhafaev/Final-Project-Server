@@ -8,6 +8,6 @@
 
 Стек: _JavaScript_, _express_, _JWT_
 
-__Схема базы данных:__
+Схема базы данных:
 
 <img width="953" alt="Снимок экрана 2023-05-12 в 19 44 21" src="https://github.com/maximkhafaev/Final-Project-Server/assets/133359009/be9bb897-7160-43c6-a074-7d05ef4848b5">
